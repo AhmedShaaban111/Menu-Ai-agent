@@ -210,6 +210,3 @@ Each item has **mandatory choices** (e.g. size, bun type) and optional **add-ons
 
 ---
 
-## 📄 License
-
-MIT
