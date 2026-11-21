@@ -14,6 +14,11 @@ An AI-powered restaurant ordering assistant with voice support.
 
 ## 🏗️ Architecture
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f50afc14-52be-4a0d-a7ea-ac4de58ab393" alt="Menu AI Agent architecture diagram" width="600">
+</p>
+
+
 ```
 🎤 User speaks
     ↓
