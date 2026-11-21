@@ -36,7 +36,7 @@ POST /chat  →  LangGraph ReAct Agent
 menu-agent/
 ├── main.py                        ← FastAPI: /transcribe /chat
 ├── chat_ui.html                   ← Browser UI (mic + chat + browser TTS)
-├── .env                           ← API keys
+├── .env.example                ← env template (copy to .env)
 ├── requirements.txt
 └── src/
     ├── agent/
@@ -57,8 +57,8 @@ menu-agent/
 ### 1. Clone and enter the project
 
 ```bash
-git clone https://github.com/your-username/menu-agent.git
-cd menu-agent
+git clone https://github.com/AhmedShaaban111/Menu-Ai-agent.git
+cd Menu-Ai-agent
 ```
 
 ### 2. Create virtual environment
@@ -210,3 +210,10 @@ Each item has **mandatory choices** (e.g. size, bun type) and optional **add-ons
 
 ---
 
+
+
+---
+
+## 📄 License
+
+MIT - see [LICENSE](LICENSE).
